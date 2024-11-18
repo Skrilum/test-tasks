@@ -1,0 +1,6 @@
+{
+    "watch": ["history-service"],
+    "ext": "ts",
+    "exec": "npx tsx app.ts"
+  }
+  
